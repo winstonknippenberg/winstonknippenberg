@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=019875)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Angular&logoColor=white&color=019875)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=019875)
-![](https://img.shields.io/badge/Code-SCSS-informational?style=flat&logo=scss&logoColor=white&color=019875)
+![](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=Sass&logoColor=white&color=019875)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=019875)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=019875)
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=019875)
