@@ -1,6 +1,6 @@
 ## Hi! I'm Ella <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-[![Linkedin: Ella Tal](https://img.shields.io/badge/-ellaTal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ella-tal-b37b53204/)](https://www.linkedin.com/in/ella-tal-b37b53204/)
+[![Linkedin: Ella Tal](https://img.shields.io/badge/-EllaTal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ella-tal-b37b53204/)](https://www.linkedin.com/in/ella-tal-b37b53204/)
 
 ## 🔧 Technologies & Tools
 
